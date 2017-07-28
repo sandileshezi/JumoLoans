@@ -1,0 +1,66 @@
+﻿<loans>
+  <loan>
+    <id>1</id>
+    <msisdn>07729554427</msisdn>
+    <network>Network 1</network>
+    <date>12-Mar-2016</date>
+    <product>Product 1</product>
+    <amount>1000</amount>
+  </loan>
+  <loan>
+    <id>2</id>
+    <msisdn>07722342551</msisdn>
+    <network>Network 2</network>
+    <date>16-Mar-2016</date>
+    <product>Product 1</product>
+    <amount>1122</amount>
+  </loan>
+  <loan>
+    <id>3</id>
+    <msisdn>27725544272</msisdn>
+    <network>Network 3</network>
+    <date>17-Mar-2016</date>
+    <product>Product 2</product>
+    <amount>2084</amount>
+  </loan>
+  <loan>
+    <id>4</id>
+    <msisdn>27725326345</msisdn>
+    <network>Network 1</network>
+    <date>18-Mar-2016</date>
+    <product>Product 2</product>
+    <amount>3098</amount>
+  </loan>
+  <loan>
+    <id>5</id>
+    <msisdn>27729234533</msisdn>
+    <network>Network 2</network>
+    <date>01-Apr-2016</date>
+    <product>Product 1</product>
+    <amount>5671</amount>
+  </loan>
+  <loan>
+    <id>6</id>
+    <msisdn>27723453455</msisdn>
+    <network>Network 3</network>
+    <date>12-Apr-2016</date>
+    <product>Product 3</product>
+    <amount>1928</amount>
+  </loan>
+  <loan>
+    <id>6</id>
+    <msisdn>27725678534</msisdn>
+    <network>Network 2</network>
+    <date>15-Apr-2016</date>
+    <product>Product 3</product>
+    <amount>1747</amount>
+  </loan>
+  <loan>
+    <id>6</id>
+    <msisdn>27729554427</msisdn>
+    <network>Network 1</network>
+    <date>16-Apr-2016</date>
+    <product>Product 2</product>
+    <amount>1801</amount>
+  </loan>
+</loans>

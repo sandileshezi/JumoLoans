@@ -1,0 +1,8 @@
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\bin\Debug\JumoLoans.exe.config
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\bin\Debug\JumoLoans.exe
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\bin\Debug\JumoLoans.pdb
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\bin\Debug\nunit.framework.dll
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\bin\Debug\nunit.framework.xml
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\obj\Debug\JumoLoans.csprojResolveAssemblyReference.cache
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\obj\Debug\JumoLoans.exe
+C:\workspace\JumoLoans\JumoLoans\JumoLoans\obj\Debug\JumoLoans.pdb
